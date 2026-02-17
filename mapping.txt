@@ -1,0 +1,12 @@
+kick/bass drum : 36
+SideStick/rim : 37
+snare/snr : 38, 40 
+hihat/hh/closedhh/pedalhh : 42
+pedalhh : 44
+Oh/openhh : 46
+clap/Snap : 39
+Tom : 42, 50  
+shaker : 58
+combo : 30, 31
+crash/china/splash/ridebell/ride/cymbal/revCrash : 49, 57
+bell : 53
